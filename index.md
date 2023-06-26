@@ -1,6 +1,9 @@
 ---
+layout: default
 title: Home
-layout: home
+nav_order: 1
+description: "Introduction to Personal Finance"
+permalink: /
 ---
 
 # Introduction to Personal Finance
